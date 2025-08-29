@@ -6,8 +6,7 @@ This project was conducted to analyze the sales performance of JellyByte’s **U
 # Data Structure
 The dataset consists of three tables, **Products**, which contains details of all products offered by JellyByte, **Targets**, which outlines sales targets for each product division, and **Sales**, which records transactions from January 2021 to December 2024. Together, these tables support a focused analysis of sales performance and target achievement in the U.S. market.
 
-![My Project Logo](![image.png](attachment:0f51dd60-ce90-44b2-87e4-5d05c6e9c4e6:image.png))
-
+![image.png](attachment:0f51dd60-ce90-44b2-87e4-5d05c6e9c4e6:image.png)
 
 # Executive Summary
 - This analysis examined sales transactions from **2021 to 2024** across all five JellyByte factories operating in the United States, with a focus on both sales performance and product trends. Over the four-year period, JellyByte generated **141,783.63** in total sales, with **2024 emerging as the strongest year** at **46,968.11**, reflecting a **27% increase** from 2023.
