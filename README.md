@@ -1,7 +1,4 @@
 # Project Overview
-
----
-
 **JellyByte** is a global confectionery company known for producing and distributing a wide range of popular candies across international markets. With a strong presence in multiple countries, the company is exploring opportunities to expand its operations further based on regional performance.
 
 This project was conducted to analyze the sales performance of JellyByte’s **United States operations**. The project aims to identify top-performing distributors, regional trends, and product-specific demand patterns. Insights from this analysis will inform strategic decisions regarding potential expansion, resource allocation, and market-specific improvements. The findings will be presented to JellyByte’s executive team and regional managers.
